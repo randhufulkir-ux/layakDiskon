@@ -1,0 +1,18 @@
+# Dependencies
+node_modules/
+
+# Obsidian & agent lokal
+.obsidian/
+.kilo/
+
+# Aset referensi & prototipe lama (tidak dipublikasikan)
+stitch_minimalist_discount_decision_dashboard/
+archive/
+
+# Catatan internal
+Proyek LayakDiskon.md
+
+# Log & file OS
+*.log
+Thumbs.db
+.DS_Store
